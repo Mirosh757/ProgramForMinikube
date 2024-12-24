@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\vs\\imageforminikube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\vs\\imageforminikube\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|solutionrelative:facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\vs\\imageforminikube\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|solutionrelative:applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\vs\\imageforminikube\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C139281-FAEC-4F06-97F0-B0A4093500DD}|ImageForMinikube.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:46:02.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\Facade.cs",
+              "RelativeDocumentMoniker": "Facade.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\Facade.cs",
+              "RelativeToolTip": "Facade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:28:15.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ApplicationContext.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\ApplicationContext.cs",
+              "RelativeToolTip": "ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:47:44.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\VS\\ImageForMinikube\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:43:50.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

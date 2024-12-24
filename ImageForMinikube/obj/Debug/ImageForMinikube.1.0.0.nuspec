@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ImageForMinikube</id>
+    <version>1.0.0</version>
+    <authors>ImageForMinikube</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Aspire.Npgsql.EntityFrameworkCore.PostgreSQL" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Программы\VS\ImageForMinikube\bin\Debug\net8.0\ImageForMinikube.runtimeconfig.json" target="lib\net8.0\ImageForMinikube.runtimeconfig.json" />
+    <file src="D:\Программы\VS\ImageForMinikube\bin\Debug\net8.0\ImageForMinikube.dll" target="lib\net8.0\ImageForMinikube.dll" />
+  </files>
+</package>
